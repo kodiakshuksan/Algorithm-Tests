@@ -1,0 +1,26 @@
+{
+  "name": "algorithm-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "OddorEven.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodiakshuksan/Algorithm-Tests.git"
+  },
+  "author": "Jenny Detmering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodiakshuksan/Algorithm-Tests/issues"
+  },
+  "homepage": "https://github.com/kodiakshuksan/Algorithm-Tests#readme"
+}
