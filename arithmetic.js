@@ -1,4 +1,5 @@
 // Fill in the body of each function with the code required
+const arithmetic = () => {
 
 var add = function(num1, num2) {
     return num1 + num2};
@@ -11,3 +12,6 @@ var multiply = function(num1, num2) {
 
 var divide = function(num1, num2) {
     return num1 / num2};
+}
+
+module.exports = arithmetic;
